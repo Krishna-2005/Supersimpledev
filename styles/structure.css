@@ -1,0 +1,15 @@
+
+.struct{
+    font-family: Montserrat;
+    text-align: center;
+    font-weight: bold;
+}
+
+.struct1{
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.del{
+    text-decoration: underline;
+}
